@@ -457,7 +457,11 @@ PRODUCT_PACKAGES += \
     NFThinOutlineOverlay \
     NFThreadLineOverlay
 
-# QS panel styles
+# QS UI Style
+PRODUCT_PACKAGES += \
+    A11QSUI
+
+# Lineage
 PRODUCT_PACKAGES += \
     QSBookmarkOverlay \
     QSBottomOutlineOverlay \
